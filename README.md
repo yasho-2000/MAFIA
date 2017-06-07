@@ -1,7 +1,7 @@
 AUTHOR : Yasoda Rajaram 
-# MAFIA
+# MAFIA-AI
 
-MAFIA stands for Mathematics and Physics Academy! This project is to to create best - in - class android editor and collaboration tool for Mathematics and Physics documents.
+MAFIA-AI stands for Mathematics and Physics Academy using Artificial Intelligence! This project is to to create best - in - class android editor and collaboration tool for Mathematics and Physics documents.
  
 OVERVIEW
 
@@ -31,8 +31,27 @@ Edit Peer Group using Mobile Numbers
 Edit Peer Group using e-mail addresses 
 Register Mobile App IP on AWS cloud using Lambda Function 
 Notify Peer Group using IP of new peer on the peer network
-Post LaTex, MathML, WYSIWYG, HWD and PDF  to peers 
+Post LaTex, MathML, WYSIWYG, HWD and PDF  to peers
+Create Model for Mathematics and Physics Knowledge Representation
+Search Internet for Mathematical Theorems and Proofs 
+Search Internet for Physical Laws and Proofs 
+Search Internet for Mathematical Formulae and Derivations
+Search Internet for Mathematical Methods and Techniques 
+Load Model with Theorems, Laws, Formulae and Techniques
+For question, find relevant answer 
+Supervise machine learning to improve accuracy of answer 
+Discover context when user types 
+Suggest possible next steps from knowledge base 
+Check Proofs based on Knowledge Base 
+Write algorithms to prove theorems for problems 
+
 
 MILESTONES 
 Editor (Features 1 - 15) 
 Peer to Peer Collaboration (Features 16 - 20)
+Knowledge Base (35 - 40)
+Search Knowledge Base (41)
+AI to improve Search of Knowledge Base (42)
+Context Sensitive Help (43 - 44)
+Proof Verification (45)
+Theorem Proving (46)
