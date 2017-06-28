@@ -41,8 +41,8 @@ Specifications
 27. Supervised machine learning to improve accuracy of answer 
 28. Discover context when user types 
 29. Suggest possible next steps from knowledge base
-future feature
-...
+30. future feature
+31. ...
 
 
 
