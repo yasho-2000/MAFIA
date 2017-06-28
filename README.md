@@ -43,4 +43,4 @@ Specifications
 29. Suggest possible next steps from knowledge base
 
 MILESTONES 
-Editor (Features 1 - 14) Peer to Peer Collaboration (Features 15 - 19) Knowledge Base (20 - 25) Search Knowledge Base (26) AI to improve Search of Knowledge Base (28) Context Sensitive Help (28 - 29) Proof Verification and Theorem Proving as future vision
+1. Editor 2. Peer to Peer Collaboration 3. Knowledge Base 4. Search Knowledge Base 5. AI to improve Search of Knowledge Base 6. Context Sensitive Help 7. Proof Verification and 8. Theorem Proving as future vision
