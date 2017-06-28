@@ -44,14 +44,13 @@ Specifications
 28. Discover context when user types 
 29. Suggest possible next steps from knowledge base 
 30. Check Proofs based on Knowledge Base 
-31. Provide entry piints to write and plug-in algorithms to prove theorems for problems 
-
+31. Provide entry p0ints to write and plug-in algorithms to prove theorems for problems 
 
 MILESTONES 
 Editor (Features 1 - 14) 
 Peer to Peer Collaboration (Features 15 - 19)
 Knowledge Base (20 - 25)
-Search Knowledge Base (26 - 27)
+Search Knowledge Base (26)
 AI to improve Search of Knowledge Base (28)
 Context Sensitive Help (28 - 29)
 Proof Verification (30)
