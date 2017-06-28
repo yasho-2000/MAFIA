@@ -40,7 +40,9 @@ Specifications
 26. For question, find relevant answer 
 27. Supervised machine learning to improve accuracy of answer 
 28. Discover context when user types 
-29. Suggest possible next steps from knowledge base 
+29. Suggest possible next steps from knowledge base
+
+
 
 MILESTONES 
 Editor (Features 1 - 14) Peer to Peer Collaboration (Features 15 - 19) Knowledge Base (20 - 25) Search Knowledge Base (26) AI to improve Search of Knowledge Base (28) Context Sensitive Help (28 - 29) Proof Verification and Theorem Proving as future vision
