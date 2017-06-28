@@ -9,49 +9,50 @@ According to Wolfram Alpha, there are 2770 Mathematicians and 13,630 Physicists!
 
 GOALS
 
-Build an android application for editing Mathematics and Physics documents 
-Build a collaboration platform for Mathematicians and Physicians 
+1. Build an android application for editing Mathematics and Physics documents 
+2. Build a collaboration platform for Mathematicians and Physicians 
+
 Specifications
-Provide a window to type LaTex commands in Android app
-Provide a window to show outcome of compiling LaTex commands  
-Generate PDF document by compiling LaTex commands 
-Save PDF document locally 
-Save PDF document on the cloud (google drive)
-Post raw LaTex commands to forum topic 
-Post compiled LaTex outcome to forum topic 
-Train users by providing LaTex tips 
-Update LaTex versions and packages from Mobile App 
-Provide Keyboard to type Mathematics (WYSIWYG)
-Scan handwritten documents (HWD)
-Convert MathML to LaTex
-Convert WYSIWYG to LaTex
-Convert HWD to LaTex
-Print LaTex, MathML, WYSIWYG, HWD and PDF 
-Edit Peer Group using Mobile Numbers 
-Edit Peer Group using e-mail addresses 
-Register Mobile App IP on AWS cloud using Lambda Function 
-Notify Peer Group using IP of new peer on the peer network
-Post LaTex, MathML, WYSIWYG, HWD and PDF  to peers
-Create Model for Mathematics and Physics Knowledge Representation
-Search Internet for Mathematical Theorems and Proofs 
-Search Internet for Physical Laws and Proofs 
-Search Internet for Mathematical Formulae and Derivations
-Search Internet for Mathematical Methods and Techniques 
-Load Model with Theorems, Laws, Formulae and Techniques
-For question, find relevant answer 
-Supervise machine learning to improve accuracy of answer 
-Discover context when user types 
-Suggest possible next steps from knowledge base 
-Check Proofs based on Knowledge Base 
-Write algorithms to prove theorems for problems 
+1. Provide a window to type LaTex commands in Android app
+2. Provide a window to show outcome of compiling LaTex commands  
+3. Generate PDF document by compiling LaTex commands 
+3. Save PDF document locally 
+4. Save PDF document on the cloud (google drive)
+5. Post raw LaTex commands to forum topic 
+6. Post compiled LaTex outcome to forum topic 
+7. Train users by providing LaTex tips 
+8. Update LaTex versions and packages from Mobile App 
+9. Provide Keyboard to type Mathematics (WYSIWYG)
+10.Scan handwritten documents (HWD)
+11.Convert MathML to LaTex
+12.Convert WYSIWYG to LaTex
+13. Convert HWD to LaTex
+14. Print LaTex, MathML, WYSIWYG, HWD and PDF 
+15. Edit Peer Group using Mobile Numbers 
+16. Edit Peer Group using e-mail addresses 
+17. Register Mobile App IP on AWS cloud using Lambda Function 
+18. Notify Peer Group using IP of new peer on the peer network
+19. Post LaTex, MathML, WYSIWYG, HWD and PDF  to peers
+20. Create Model for Mathematics and Physics Knowledge Representation
+21. Search Internet for Mathematical Theorems and Proofs 
+22. Search Internet for Physical Laws and Proofs 
+23. Search Internet for Mathematical Formulae and Derivations
+24. Search Internet for Mathematical Methods and Techniques 
+25. Load Model with Theorems, Laws, Formulae and Techniques
+26. For question, find relevant answer 
+27. Supervised machine learning to improve accuracy of answer 
+28. Discover context when user types 
+29. Suggest possible next steps from knowledge base 
+30. Check Proofs based on Knowledge Base 
+31. Provide entry piints to write and plug-in algorithms to prove theorems for problems 
 
 
 MILESTONES 
-Editor (Features 1 - 15) 
-Peer to Peer Collaboration (Features 16 - 20)
-Knowledge Base (35 - 40)
-Search Knowledge Base (41)
-AI to improve Search of Knowledge Base (42)
-Context Sensitive Help (43 - 44)
-Proof Verification (45)
-Theorem Proving (46)
+Editor (Features 1 - 14) 
+Peer to Peer Collaboration (Features 15 - 19)
+Knowledge Base (20 - 25)
+Search Knowledge Base (26 - 27)
+AI to improve Search of Knowledge Base (28)
+Context Sensitive Help (28 - 29)
+Proof Verification (30)
+Theorem Proving (31)
